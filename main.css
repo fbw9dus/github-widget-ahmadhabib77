@@ -1,0 +1,49 @@
+body{
+    background-color: burlywood;
+}
+
+.sondBack p
+{
+    text-align: center;
+    color: rgb(226, 221, 214);
+    font-size: 30px;
+    background-color: black;
+}
+
+.input
+{
+    padding: 10px;
+   font-size: 20px;
+   border: 20px;
+   background-color: sandybrown;
+   color: rgb(22, 20, 20);
+   
+}
+.but
+{
+    border-radius: 50%;
+    padding: 13px;
+    background-color: rgb(219, 118, 23);
+    color: black;
+   
+}
+.li1{
+    color: rgb(17, 17, 16);
+    font-size: larger;
+    background-color: rgb(207, 192, 182);
+    margin:50px auto;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.li2
+{
+    color: red;
+}
+li{
+    list-style: none;
+   
+}
+span{
+    float: right;
+    color: darkgreen;
+}
